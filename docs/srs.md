@@ -122,8 +122,8 @@ The system shall suggest actions such as avoiding the site or reporting it.
 ## Tech Stack (Initial)
 
 * Frontend: HTML, CSS, JavaScript
-* Backend: Python (Flask) or Node.js
-* Database: SQLite / MongoDB
+* Backend: Python (Flask) or Node.js  //not decided
+* Database: MongoDB
 * ML (Later): Scikit-learn
 
 ---
@@ -132,8 +132,7 @@ The system shall suggest actions such as avoiding the site or reporting it.
 
 * README.md
 * SRS Document
-* Basic Frontend UI
-* Backend API Skeleton
+
 
 ---
 
