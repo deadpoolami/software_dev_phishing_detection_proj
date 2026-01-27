@@ -121,7 +121,7 @@ The system shall suggest actions such as avoiding the site or reporting it.
 
 ## Tech Stack (Initial)
 
-* Frontend: HTML, CSS, JavaScript
+* Frontend: HTML, CSS, JavaScript, react(if more complex)
 * Backend: Python (Flask) or Node.js  //not decided
 * Database: MongoDB
 * ML (Later): Scikit-learn
